@@ -1,0 +1,9 @@
+{
+    "name": "Deltarune Soundfont",
+    "size": "328 MB",
+    "file-url": "https://drive.google.com/uc?export=download&id=1g8WvlOJAM3Ye_Skbl5QcVgR_I9T9ZQvd",
+    "site-url": "https://musical-artifacts.com/artifacts/1486",
+    "license": "CCA 4.0 International",
+    "author": "Mr_Incognito",
+    "description": "Some of the instruments used in the songs are from VST plugins, so I have substituted with similar instruments. Using the information provided from https://docs.google.com/document/d/1P6Ng2Swio02c6f827jdFl3DDYGa9KmeBfqZtiDy0U/edit I was able to compile these sounds into one singular soundfont for easy use."
+}
