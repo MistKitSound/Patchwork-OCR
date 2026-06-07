@@ -1,0 +1,11 @@
+{
+    "name": "Meowsynth",
+    "size": "1.7 MB",
+    "file-url": "https://drive.google.com/uc?export=download&id=1duMOc3zE6LZPQSZuY-GOWlL5xpiyh-q3",
+    "site-url": "https://Knobster.org/",
+    "license": "Royalty free",
+    "author": "Knobster",
+    "description": "Osc that produces meow sound. Based on a real cat Baksik. Have fun!",
+    "type": "VST3",
+    "Platform": "Windows"
+}

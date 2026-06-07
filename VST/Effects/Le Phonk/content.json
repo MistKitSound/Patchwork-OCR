@@ -1,0 +1,11 @@
+{
+    "name": "Le Phonk",
+    "size": "5 MB",
+    "file-url": "https://drive.google.com/uc?export=download&id=1Oy8tEGpDkRca3jdGNUlMwyRakBguQ5o1",
+    "site-url": "https://github.com/Speechrezz/Le-Phonk",
+    "license": "MIT",
+    "author": "Speechrezz",
+    "description": "The only plugin that you will ever need.",
+    "type": "VST3",
+    "Platform": "Windows"
+}
