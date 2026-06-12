@@ -7,5 +7,5 @@
     "author": "Knobster",
     "description": "Osc that produces meow sound. Based on a real cat Baksik. Have fun!",
     "type": "VST3",
-    "Platform": "Windows"
+    "Platform": "Windows, Linux (Wine)"
 }
