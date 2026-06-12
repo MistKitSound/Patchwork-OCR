@@ -1,0 +1,11 @@
+{
+    "name": "Vital Pro",
+    "size": "3.2 GB",
+    "file-url": "https://github.com/MistKitSound/Patchwork-OCR/tree/main/VST/Generators/Vital Audio - Vital Pro 3 [--] []/Vital Audio - Vital Pro v1.5.5 STANDALONE VSTi VSTi3 AU CLAP x64 [LiNUX-WiN-Mac] [22.5.2023] [rutracker-6367009].torrent",
+    "site-url": "https://vital.audio",
+    "license": "royalty free",
+    "author": "Vital Audio",
+    "description": "VST plugin by Vital Audio",
+    "type": "VST3, VSTi, AU, CLAP, Standalone",
+    "Platform": "Windows, Linux (Wine)"
+}
